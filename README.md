@@ -5,7 +5,7 @@ Este proyecto es una aplicación web para consultar información de equipos y pa
 ### Contenido del Repositorio
 
 - **Carpeta scriptBasesDeDatos**: Contiene el script SQL para crear la base de datos y cargar datos iniciales.
-- **Carpeta src**: Contiene todo el código fuente del proyecto.
+- **Carpeta raiz**: Contiene todo el código fuente del proyecto.
 
 ### Requisitos
 
