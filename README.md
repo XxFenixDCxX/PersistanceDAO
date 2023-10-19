@@ -41,18 +41,3 @@ La creacion he introduccion de datos en la base de datos:
 
 - **./scriptBaseDeDatos**: Carpeta donde se almacenan los scrips para la creacion de la base de datos y la insercion de datos.
 
-### Contribuciones
-
-Si deseas contribuir a este proyecto, siéntete libre de hacerlo mediante un fork y una solicitud de extracción (pull request) en GitHub.
-
-Este proyecto se enfoca en la gestión de datos y no en la interfaz de usuario, por lo que cualquier mejora en ese aspecto será apreciada.
-
-### Agradecimientos
-
-Este proyecto se basa en la idea original del V2 de Artean y en el trabajo de la comunidad de desarrolladores de código abierto. ¡Gracias a todos los que hacen posible esta colaboración!
-
-### Contacto
-
-Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarnos en [tu dirección de correo electrónico o enlace al formulario de contacto].
-
-¡Disfruta explorando y trabajando con este proyecto!
