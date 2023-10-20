@@ -21,8 +21,6 @@ Asegúrate de tener instalado lo siguiente:
 
 2. Importa la base de datos ejecutando el script SQL en tu sistema de gestión de bases de datos.
 
-3. Abre el archivo `src/config.php` y ajusta la configuración de la base de datos con tus credenciales.
-
 ### Uso
 
 Accede a la página principal a través de tu servidor web. Verás un menú con dos opciones: "Equipos" y "Partidos". Desde aquí, puedes realizar las siguientes acciones:
