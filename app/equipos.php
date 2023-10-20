@@ -10,8 +10,8 @@ $dao= new EquiposPartidosDAO();
         <table class="table">
             <thead>
                 <tr>
-                    <th>Equipo1</th>
-                    <th>Equipo2</th>
+                    <th>Equipo</th>
+                    <th>Estadui</th>
                 </tr>
             </thead>
             <tbody>
